@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-# app1
 
-A new Flutter project.
+# ПКС #3. Михайлов Денис ЭФБО-06-22
 
-## Getting Started
+# Запуск в Edge
+![image](https://github.com/user-attachments/assets/b8279651-baa6-45ac-a2c4-3a9531a7fd8d)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pcs1
->>>>>>> fdc77a515eb182327499655cc0e291a9a3e87d04
+![image](https://github.com/user-attachments/assets/b7ebe64d-3a68-42c8-8d26-ba14fe597bdf)
